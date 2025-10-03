@@ -14,4 +14,4 @@ Presentación Reddit 🔗 Link: [Ver Presentación](https://cristobal-mejias-g.g
 
 ---
 
-Presentación Salud y Género 🔗 Link: [Ver Presentación](https://cristobal-mejias-g.github.io/Metodos-Computacionales-2025/mc_presentacion.html) 
+Presentación Salud y Desigualdad social 🔗 Link: [Ver Presentación](https://cristobal-mejias-g.github.io/Metodos-Computacionales-2025/mc_presentacion.html) 
