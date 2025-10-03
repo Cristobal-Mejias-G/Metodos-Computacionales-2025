@@ -1,6 +1,6 @@
 ---
 title: "Lenguaje y género en Reddit: Contrastes entre r/AskMen y r/AskWomen"
-subtitle: "Métodos Computacionales para las Ciencias Sociales <br>Profesor: Klaus Lehmann M.<br>Ayudante: Matías Gallardo V."
+subtitle: "Métodos Computacionales para las Ciencias Sociales"
 author: "Cristóbal Mejías G. & Felipe Vega G."
 date: 2025-10-03
 lang: es
