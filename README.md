@@ -4,16 +4,12 @@ Este repositorio contiene materiales del curso **Métodos Computacionales 2025**
 
 ---
 
-## 📘 Tutorial  
-👉 [Ver Tutorial](https://cristobal-mejias-g.github.io/Metodos-Computacionales-2025/Tutorial.html)  
+Tutorial 🔗 Link: [Ver Tutorial](https://cristobal-mejias-g.github.io/Metodos-Computacionales-2025/Tutorial.html)  
 
 
 ---
 
-## 🎤 Presentación  
-👉 [Ver Presentación](https://cristobal-mejias-g.github.io/Metodos-Computacionales-2025/Presentación.html)  
+Presentación 🔗 Link: [Ver Presentación](https://cristobal-mejias-g.github.io/Metodos-Computacionales-2025/Presentación.html)  
 
 
 ---
-
-✍️ *Recuerda que los archivos `tutorial.html` y `presentacion.html` deben estar en la raíz del repositorio para que los links funcionen correctamente.*
