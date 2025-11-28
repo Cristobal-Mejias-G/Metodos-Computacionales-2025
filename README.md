@@ -9,7 +9,9 @@ Tutorial 🔗 Link: [Ver Tutorial](https://cristobal-mejias-g.github.io/Metodos-
 
 ---
 
-Presentación 🔗 Link: [Ver Presentación](https://cristobal-mejias-g.github.io/Metodos-Computacionales-2025/Presentación.html)  
+Presentación Reddit 🔗 Link: [Ver Presentación](https://cristobal-mejias-g.github.io/Metodos-Computacionales-2025/Presentación.html)  
 
 
 ---
+
+Presentación Salud y Desigualdad social 🔗 Link: [Ver Presentación](https://cristobal-mejias-g.github.io/Metodos-Computacionales-2025/mc_presentacion.html) 
